@@ -1,8 +1,8 @@
 package utils
 
 import (
-	"colleague/kit/errs"
 	"fmt"
+	"github.com/limingxie/colleague-kit/errs"
 	"net/http"
 	"reflect"
 
